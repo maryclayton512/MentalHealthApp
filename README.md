@@ -1,2 +1,2 @@
 # MentalHealthApp
-Made with Angular, C#, and Golang
+Made with Angular, C#, and .NET
